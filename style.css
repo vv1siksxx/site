@@ -1,0 +1,17 @@
+nav {
+    margin: 20px;
+    padding: 10px;
+    border:2px solid lightgray;
+    }
+
+
+    nav a {
+        margin: 60px;
+        font-size:20px;
+        text-decoration: none;
+        color: rgb(90, 90, 90);
+        }
+
+        main {
+            color: grey;
+            }
